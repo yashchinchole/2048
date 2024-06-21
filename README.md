@@ -1,5 +1,7 @@
 # 2048 Game
 
+![](https://visitor-badge.laobi.icu/badge?page_id=yashchinchole/2048)
+
 This project is a classic implementation of the 2048 game where players merge tiles with the same numbers to reach the elusive 2048 tile.
 
 ## Live Demo
